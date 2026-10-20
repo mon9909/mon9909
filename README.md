@@ -25,6 +25,6 @@ In GitHub, open **Settings → Pages** and verify deployment from branch `main`,
 The website uses external Google Fonts and Unsplash images, so those resources require an internet connection.
 
 
-## Country photography
 
-Country-card and study-page photography uses real city photographs from Unsplash. Image credits are not displayed on the website.
+## Images and final checks
+The site uses externally hosted Unsplash photographs. Confirm image loading and current provider terms during pre-publication testing. The site pages do not display photo-credit labels.
