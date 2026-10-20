@@ -334,3 +334,6 @@ html[lang="ar"] .hero em, html[lang="ar"] .section-heading em, html[lang="ar"] .
 .site-header .brand small,.site-footer .brand small{font-size:9px;letter-spacing:.08em;}
 .site-header .brand{gap:13px;}
 @media(max-width:520px){.site-header .brand-mark,.site-footer .brand-mark{width:39px;height:39px;flex-basis:39px}.site-header .brand strong,.site-footer .brand strong{font-size:23px}.site-header .brand small,.site-footer .brand small{font-size:6px;letter-spacing:.035em}}
+
+/* Homepage: honor the request to remove the brand logo from the landing page only. */
+.homepage .site-header .brand{display:none}
